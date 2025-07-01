@@ -8,20 +8,20 @@ main:
     url: /
     weight: 10
   - name: Research
-    url: /#papers
+    url: https://sites.google.com/view/danbeugnet/publications 
     weight: 11
-  - name: Media
-    url: /#talks
+  - name: Portfolio
+    url: https://sites.google.com/view/danbeugnet/portfolio
     weight: 12
-  - name: News
+  - name: Media
     url: /#news
     weight: 13
-  - name: Experience
+  - name: 
     url: experience/
     weight: 20
-  - name: Portfolio
+  - name: 
     url: projects/
     weight: 30
-  - name: Teaching
+  - name: 
     url: teaching/
     weight: 40
