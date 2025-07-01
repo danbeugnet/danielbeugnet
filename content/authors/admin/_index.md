@@ -11,7 +11,7 @@ last_name: Beugnet
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -83,101 +83,7 @@ education:
       - 
       - 
       - 
-work:
-  - position: Professor of English
-    company_name: Tallahassee State College
-    company_url: 'www.tsc.fl.edu'
-    company_logo: ''
-    date_start: 2010-08-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - 
-      - 
-      - 
-  - position: 
-    company_name: 
-    company_url: ''
-    company_logo: ''
-    date_start: 
-    date_end: 
-    summary: |
-      Responsibilities include:
-      - 
-      - 
-      - 
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: 
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: 
-        description: ''
-        percent: 
-        icon: chart-bar
-      - name: 
-        description: ''
-        percent: 
-        icon: circle-stack
-  - name: 
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: 
-        description: ''
-        percent: 
-        icon: 
-      - name: 
-        description: ''
-        percent: 
-        icon: 
-      - name: 
-        description: ''
-        percent: 
-        icon: 
-
-languages:
-  - name: 
-    percent: 
-  - name: 
-    percent: 
-  - name: 
-    percent: 
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: 
-    url: 
-    date: ''
-    awarder: 
-    icon: 
-    summary: |
-      
-  - title: 
-    url: 
-    date: ''
-    awarder: 
-    icon: 
-    summary: |
-      Learned:
-      - 
-      - 
-      - 
-  - title: ''
-    url: 
-    certificate_url: 
-    date: ''
-    awarder: 
-    icon: 
-    summary: |
      
 ---
 
