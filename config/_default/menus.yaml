@@ -7,11 +7,11 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Research
-    url: https://sites.google.com/view/danbeugnet/publications 
+  - name: Publications
+    url: https://sites.google.com/view/danielbeugnetedd/publications 
     weight: 11
   - name: Portfolio
-    url: https://sites.google.com/view/danbeugnet/portfolio
+    url: https://sites.google.com/view/danielbeugnetedd/portfolio?authuser=0
     weight: 12
   - name: Media
     url: /#news
