@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Professor and Director, Undergraduate Research Program
+role: Professor and Director of Undergraduate Research
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
