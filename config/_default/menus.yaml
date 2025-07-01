@@ -7,10 +7,10 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
+  - name: Research
     url: /#papers
     weight: 11
-  - name: Talks
+  - name: Media
     url: /#talks
     weight: 12
   - name: News
@@ -19,7 +19,7 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Projects
+  - name: Portfolio
     url: projects/
     weight: 30
   - name: Teaching
