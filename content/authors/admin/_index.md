@@ -33,12 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:daniel.beugnet@tsc.fl.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: 
-  - icon: brands/instagram
-    url: 
-  - icon: brands/github
-    url: 
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/danbeugnet/
   - icon: academicons/google-scholar
