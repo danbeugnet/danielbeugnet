@@ -13,8 +13,8 @@ main:
   - name: Portfolio
     url: projects/
     weight: 12
-  - name: Media
-    url: /#news
+  - name: 
+    url: 
     weight: 13
   - name: 
     url: 
