@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Publications'
 date: 2023-10-24
 type: landing
 
@@ -10,26 +10,32 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
+  - block: markdown
     content:
-      username: admin
+      title: 'Publications'
+      subtitle: ''
+      text: |-
+
+        **Beugnet, D. (2025).** Book Review: Transforming Academic Culture and Curriculum: Integrating and Scaffolding Research Throughout Undergraduate Education, by M. Malachowski, E. Ambos, K. Karukstis, J. Kinzie, and J. Osborn (Eds.). _Scholarship and Practice of Undergraduate Research, 8_(3), 60-61. https://www.cur.org/journal-article/transforming-academic-culture-and-curriculum-integrating-and-scaffolding-research-throughout-undergraduate-education/
+
+
+
+        **Beugnet, D. (2024).** _Opportunity Realized: Successful Implementation of Undergraduate Research at Three Geographically Diverse Community Colleges._ [Dissertation] https://repository.lib.fsu.edu/islandora/object/fsu:927835
+
+
+
+        **Beugnet, D. (2023).** Book Review: Undergraduate research at community colleges: Equity, discovery, and innovation, by Nancy H. Hensel. _Scholarship and Practice of Undergraduate Research, 6_(3), 54-55. https://www.cur.org/journal-article/undergraduate-research-at-community-colleges-equity-discovery-and-innovation/
+
+
+
+        **Beugnet, D. (2018).** Impact of a self-paced face-to-face format in a developmental writing course. _Currents in Teaching and Learning, 10_(1), 74-89. https://perma.cc/X6S7-BU4E
+        
+    
+        
+
+                
+        
+        
     design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+      columns: '1'
 ---
