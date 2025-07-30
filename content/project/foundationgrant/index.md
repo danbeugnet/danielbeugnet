@@ -1,5 +1,5 @@
 ---
-title: 2. TSC Undergraduate Research Program Annual Report
+title: 3. TSC Undergraduate Research Fellowship Grant Proposal
 date: 2023-10-26
 external_link: 
 tags:
@@ -8,6 +8,6 @@ tags:
 
 ---
 
-Coming Soon - Annual report of the Undergraduate Research Program at Tallahassee State College.
+Grant proposal to the TSC Foundation requesting funding for the TSC Undergraduate Research Fellowship initiative.
 
 <!--more-->
