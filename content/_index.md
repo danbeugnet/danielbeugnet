@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: https://www.dropbox.com/scl/fi/gbhjnxd8xixduvtwxk2va/cv-daniel-beugnet.pdf?rlkey=cezlbv333gej9p9frnvmqhzcq&st=chogw3jk&dl=0
     design:
       css_class: dark
       background:
