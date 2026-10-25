@@ -83,4 +83,4 @@ education:
 
 ## About Me
 
-Daniel Beugnet is a professor of English and director of the Undergraduate Research Program at Tallahassee State College, one of the largest community college undergraduate research programs in the country.
+Daniel Beugnet is a higher education leader and a scholar of higher education practice with over twenty years of experience managing institutional change initiatives that promote innovative best practices in higher education. He currently serves a professor of English and as the inaugural faculty director of the Undergraduate Research Program at Tallahassee State College.
