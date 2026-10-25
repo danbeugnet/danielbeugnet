@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Professor and Director of Undergraduate Research
+role: 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Tallahassee State College
-    url: https://www.tsc.fl.edu/research
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
